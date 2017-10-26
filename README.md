@@ -1,4 +1,4 @@
-# docker-minitest
+# minitest-docker
 
 A simple image with [Minitest](https://github.com/seattlerb/minitest) installed.
 
